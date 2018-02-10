@@ -1,12 +1,11 @@
 
 .home {
 
-  
-    margin-top: 250px;
+    border: 2px solid white;
+    margin-top: 300px;
     margin-bottom: 10px;
     margin-left: 350px;
     margin-right: 350px;
-    border: 2px solid black;
 
   }
 
@@ -17,6 +16,7 @@ h2, h1 {
   text-align: center;
 }
 p {
+    font-size: 250%;
     color: white;
     font-family: Impact, Charcoal, sans-serif;
     text-align: center;
