@@ -8,12 +8,14 @@
 
   }
 
-
 h2, h1 {
   color: white;
-  font-style: Impact, Charcoal, sans-serif;
+  font-family: Impact, Charcoal, sans-serif;
   text-align: center;
+
+
 }
+
 p {
     font-size: 250%;
     color: white;
@@ -70,11 +72,13 @@ ol {
     text-align: center;
 }
 }
-.about h2 {
+.about h1, h2 {
     color: white;
     font-family: Impact, Charcoal, sans-serif;
     text-align: center;
 }
+
+
 
 .picture {
 
@@ -95,6 +99,5 @@ ol {
       margin-right: 200px;
       margin-left: 200px;
       height: 400px;
-
 
     }
