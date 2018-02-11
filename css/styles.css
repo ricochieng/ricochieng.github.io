@@ -58,12 +58,19 @@ ol {
       margin-left: 350px;
       margin-right: 350px;
       text-align: left;
-      height: 500px;
+      height: 600px;
       background-image: eric.jpg;
 
 
 }
 .about p {
+    font-size: 20px;
+    color: white;
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+}
+}
+.about h2 {
     font-size: 20px;
     color: black;
     font-family: Impact, Charcoal, sans-serif;
