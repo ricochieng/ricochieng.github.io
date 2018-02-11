@@ -34,7 +34,7 @@ ol {
 }
 /* Add a black background color to the top navigation */
 .navigation {
-    background-color: gray;
+    background-color: light gray;
     overflow: hidden;
 }
 
@@ -48,4 +48,15 @@ ol {
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
+
+}
+
+.about {
+      border: 2px solid black;
+      margin-top: 10px;
+      margin-bottom: 100px;
+      margin-left: 350px;
+      margin-right: 350px;
+
+
 }
